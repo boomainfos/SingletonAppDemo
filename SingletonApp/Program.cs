@@ -6,7 +6,8 @@ namespace SingletonApp
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			String s = "Hello Bello";
+			Console.WriteLine(s);
 		}
 	}
 }
